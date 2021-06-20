@@ -29,6 +29,8 @@ function Chart() {
         tension: 0.3,
         pointRadius: 5,
         pointBackgroundColor: "rgb(255, 99, 133)",
+        pointborderWidth: 2,
+        pointBorderColor: "#fffacd", // match bg color for padding effect
       },
 
       {
