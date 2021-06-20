@@ -27,6 +27,8 @@ function Chart() {
         // backgroundColor: "rgb(255, 99, 133)",
         borderColor: "rgb(255, 99, 133)",
         tension: 0.3,
+        pointRadius: 5,
+        pointBackgroundColor: "rgb(255, 99, 133)",
       },
 
       {
